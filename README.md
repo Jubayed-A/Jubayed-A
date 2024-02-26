@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/jubayedalam10" target="blank"><img src="https://img.shields.io/twitter/follow/jubayedalam10?logo=twitter&style=for-the-badge" alt="jubayedalam10" /></a> </p>
 
-- 🌱 I’m currently learning **Android, Kotlin, Java**
+- 🌱 I’m currently learning **Flutter, Dart, Kotlin**
 
 - 💬 Ask me about **Android, Java, Kotlin**
 
